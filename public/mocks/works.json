@@ -1,0 +1,46 @@
+[
+  {
+    "year": "2020",
+    "title": "Wenance",
+    "subtitle": "Frontend Team Leader",
+    "highlight": "violet",
+    "projects": [
+      {
+        "title": "Welp España",
+        "subtitle": "Online credit granting PWA",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit diam fusce, hac lobortis suscipit at urna ante viverra sem ultricies, magnis inceptos sociis cursus ridiculus suspendisse nibh luctus...",
+        "tags": ["ReactJS", "Redux", "Webpack", "AWS CloudFormation"]
+      },
+      {
+        "title": "CBoard Mock Server",
+        "subtitle": "Mock micro service",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit diam fusce, hac lobortis suscipit at urna ante viverra sem ultricies, magnis inceptos sociis cursus ridiculus suspendisse nibh luctus...",
+        "tags": ["NodeJS", "ExpressJS", "MongoDB"]
+      },
+      {
+        "title": "Mi Cuenta",
+        "subtitle": "Account admin mobile app",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit diam fusce, hac lobortis suscipit at urna ante viverra sem ultricies, magnis inceptos sociis cursus ridiculus suspendisse nibh luctus...",
+        "tags": ["React Native", "Expo Framework"]
+      }
+    ]
+  },
+  {
+    "year": "2019",
+    "title": "Castine",
+    "subtitle": "Frontend Team Leader",
+    "highlight": "green"
+  },
+  {
+    "year": "2018",
+    "title": "The Media Lab",
+    "subtitle": "Frontend Team Leader",
+    "highlight": "orange"
+  },
+  {
+    "year": "2014",
+    "title": "KickAdds",
+    "subtitle": "Frontend Team Leader",
+    "highlight": "aqua"
+  }
+]
